@@ -56,15 +56,6 @@ I'm a **Data Analyst** passionate about transforming raw, messy datasets into cl
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshvgupta98&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvgupta98&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
-
 <p align="center">
   <em>"Without data, you're just another person with an opinion." – W. Edwards Deming</em>
 </p>
