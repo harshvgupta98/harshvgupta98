@@ -51,7 +51,7 @@ I'm a **Data Analyst** passionate about transforming raw, messy datasets into cl
 | Project | Description |
 |--------|-------------|
 | [Power BI · HR Analytics](https://github.com/harshvgupta98/POWERBI_HR_Analytics_Dashboard) | Employee attrition dashboard across 1,480 employees |
-| [Power BI · Motorola Sales](https://github.com/harshvgupta98/POWERBI_Motorola_Sales_Dashboard) | Mobile sales dashboard across Indian cities |
+| [Power BI · Mobile Sales](https://github.com/harshvgupta98/POWERBI_Motorola_Sales_Dashboard) | Mobile sales dashboard across Indian cities |
 | [Excel · Sales Performance](https://github.com/harshvgupta98/EXCEL_Sales_Performance_Dashboard) | Sales dashboard for 141 executives across 8 Indian cities with VBA macros |
 
 ---
