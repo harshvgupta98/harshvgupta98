@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harsh Gupta 👋</h1>
 
 <p align="center">
-  <em>Data Analyst · Dublin, Ireland 🇮🇪</em>
+  <em>Data Analyst · Power BI · SQL · Python · Dublin, Ireland 🇮🇪</em>
 </p>
 
 <p align="center">
@@ -11,58 +11,88 @@
   <a href="https://github.com/harshvgupta98">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:harshvgupta1998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analyst** passionate about transforming raw, messy datasets into clear stories that drive smarter decisions. I enjoy working across the full analytics pipeline — from data cleaning and SQL queries to interactive dashboards and business reporting.
+I'm a **Data Analyst with 3+ years of experience** turning raw data into decisions. I specialise in **Power BI (DAX, Power Query)**, **SQL**, and **Python** — with a track record of building dashboards that replaced days of manual reporting and surfacing insights that directly influenced business strategy.
 
-- 🔍 I specialise in **exploratory data analysis**, **data cleaning**, and **dashboard development**
-- 📊 I build end-to-end projects spanning **sales performance**, **HR analytics**, **household income**, and **public health data**
-- 🌍 Based in **Dublin, Ireland** — actively seeking Data Analyst roles in Ireland 🇮🇪
-- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/harshgupta0504)
+- 📊 Currently working at **Lenehans**, Dublin — actively seeking **Data Analyst, BI Analyst, or Business Analyst** roles in Ireland 🇮🇪
+- 🎓 **MSc in Data Analytics** — National College of Ireland, Dublin (2H, NFQ Level 9)
+- 💡 Experienced across the full analytics lifecycle — data extraction, cleaning, modelling, visualisation, and stakeholder reporting
+- 🔗 Portfolio: **[harshvgupta98.github.io](https://harshvgupta98.github.io)** *(coming soon)*
 
 ---
 
 ## 🛠️ Skills & Tools
 
-| Category        | Tools |
-|----------------|-------|
-| **Languages**   | Python, SQL |
-| **Databases**   | MySQL, PostgreSQL |
-| **Visualisation** | Power BI, Tableau, Excel |
-| **Excel**       | Pivot Tables, VBA Macros, Slicers, Formulas |
-| **Concepts**    | EDA, Data Cleaning, KPI Dashboards, Business Reporting |
-| **Currently Learning** | Machine Learning (Regression, Classification, Clustering) |
+| Category | Tools |
+|---|---|
+| **BI & Visualisation** | Power BI (DAX, Power Query), Tableau, Google Analytics |
+| **Languages** | Python, SQL |
+| **Analytics** | KPI Reporting, EDA, Customer Segmentation, Predictive Modelling, Time Series Forecasting |
+| **Machine Learning** | Regression, Classification, Clustering |
+| **Libraries** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Tools** | Excel (Advanced, VBA, Pivot Tables), Linnworks, HyperStock, Jupyter Notebook |
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Microsoft Power BI Desktop for Business Intelligence | Analyst Builder | May 2026 |
+| MySQL for Data Analytics | Analyst Builder | Apr 2026 |
+| Introduction to Python | DataCamp | Feb 2024 |
 
 ---
 
 ## 📂 Featured Projects
 
-### 🐍 Python + SQL + Power BI
-| Project | Description |
-|--------|-------------|
-| [Customer Behavior Dashboard](https://github.com/harshvgupta98/PYTHON_SQL_POWERBI_Customer_Behavior_Dashboard) | End-to-end capstone analysing 3,900 customer transactions — Python (pandas), PostgreSQL & Power BI |
+### 🔥 Flagship Projects
+
+| Project | Tools | Key Insight |
+|---|---|---|
+| [Meta Ad Performance Dashboard](https://github.com/harshvgupta98/POWERBI_Meta_Ad_Performance_Dashboard) | Power BI · DAX · Star Schema | CTR of 11.76% vs purchase rate of 0.61% — identified leaking conversion funnel |
+| [Customer Shopping Behaviour Analysis](https://github.com/harshvgupta98/PYTHON_SQL_POWERBI_Customer_Behavior_Dashboard) | Python · PostgreSQL · Power BI | Segmented 3,116 loyal vs 83 new customers; ~50% discount dependency on key products |
+| [HR Attrition Dashboard](https://github.com/harshvgupta98/POWERBI_HR_Analytics_Dashboard) | Power BI · DAX · Star Schema | 68% of attrition in under-€5K salary band; Year 1 spike of 59 employees |
 
 ### 🗄️ SQL Projects
+
 | Project | Description |
-|--------|-------------|
-| [Online Bookstore](https://github.com/harshvgupta98/SQL_Project_Online_Bookstore) | EDA on sales, customer behaviour, inventory & revenue |
-| [World Life Expectancy](https://github.com/harshvgupta98/SQL_Project_World_Life_Expectancy) | Data cleaning & EDA on life expectancy across 193 countries (2007–2022) |
+|---|---|
+| [Online Bookstore](https://github.com/harshvgupta98/SQL_Project_Online_Bookstore) | EDA on sales, customer behaviour, inventory & revenue across 3 relational tables |
+| [World Life Expectancy](https://github.com/harshvgupta98/SQL_Project_World_Life_Expectancy) | Data cleaning & EDA across 193 countries (2007–2022) |
 | [US Household Income](https://github.com/harshvgupta98/SQL_Project_US_Household_Income) | Data cleaning & EDA across all 50 US states and Puerto Rico |
 
-### 📊 Dashboard Projects
+### 📊 Additional Dashboards
+
 | Project | Description |
-|--------|-------------|
-| [Power BI · Meta Ad Performance](https://github.com/harshvgupta98/POWERBI_Meta_Ad_Performance_Dashboard) | Meta ad performance across Facebook & Instagram — 400K events, 200 ads, 50 campaigns & 9,841 users |
-| [Power BI · Mobile Sales](https://github.com/harshvgupta98/POWERBI_Mobile_Sales_Dashboard) | Mobile brand sales dashboard across Indian cities — revenue, quantity, transactions & ratings |
-| [Power BI · HR Analytics](https://github.com/harshvgupta98/POWERBI_HR_Analytics_Dashboard) | Employee attrition dashboard across 1,480 employees |
-| [Excel · Sales Performance](https://github.com/harshvgupta98/EXCEL_Sales_Performance_Dashboard) | Sales dashboard for 141 executives across 8 Indian cities with VBA macros |
+|---|---|
+| [Power BI · Mobile Sales](https://github.com/harshvgupta98/POWERBI_Mobile_Sales_Dashboard) | Mobile brand sales dashboard — revenue, quantity, transactions & ratings |
+| [Excel · Sales Performance](https://github.com/harshvgupta98/EXCEL_Sales_Performance_Dashboard) | Sales dashboard for 141 executives across 8 cities with VBA macros |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Grade |
+|---|---|---|
+| MSc in Data Analytics | National College of Ireland, Dublin | Second Class Honours (H2) · NFQ Level 9 |
+| BEng in Computer Science | Savitribai Phule Pune University, India | First Class |
 
 ---
 
 <p align="center">
-  <em>"Without data, you're just another person with an opinion." – W. Edwards Deming</em>
+  <em>"Without data, you're just another person with an opinion." — W. Edwards Deming</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshvgupta98&color=00c9a7&style=flat-square&label=Profile+Views" />
 </p>
