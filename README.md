@@ -14,6 +14,9 @@
   <a href="mailto:harshvgupta1998@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://harshvgupta98.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-00c9a7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -25,7 +28,7 @@ I'm a **Data Analyst with 3+ years of experience** turning raw data into decisio
 - 📊 Currently working at **Lenehans**, Dublin *(Applying data skills in an operational retail environment while actively building portfolio projects and certifications for DA roles)* — actively seeking **Data Analyst, BI Analyst, or Business Analyst** roles in Ireland 🇮🇪
 - 🎓 **MSc in Data Analytics** — National College of Ireland, Dublin (2H, NFQ Level 9)
 - 💡 Experienced across the full analytics lifecycle — data extraction, cleaning, modelling, visualisation, and stakeholder reporting
-- 🔗 Portfolio: **[harshvgupta98.github.io](https://harshvgupta98.github.io)** *(coming soon)*
+- 🔗 Portfolio: **[harshvgupta98.github.io](https://harshvgupta98.github.io)**
 
 ---
 
@@ -50,7 +53,6 @@ I'm a **Data Analyst with 3+ years of experience** turning raw data into decisio
 |---|---|---|
 | Microsoft Power BI Desktop for Business Intelligence | Analyst Builder | May 2026 |
 | MySQL for Data Analytics | Analyst Builder | Apr 2026 |
-| Introduction to Python | DataCamp | Feb 2024 |
 
 ---
 
