@@ -22,7 +22,7 @@
 
 I'm a **Data Analyst with 3+ years of experience** turning raw data into decisions. I specialise in **Power BI (DAX, Power Query)**, **SQL**, and **Python** — with a track record of building dashboards that replaced days of manual reporting and surfacing insights that directly influenced business strategy.
 
-- 📊 Currently working at **Lenehans**, Dublin — actively seeking **Data Analyst, BI Analyst, or Business Analyst** roles in Ireland 🇮🇪
+- 📊 Currently working at **Lenehans**, Dublin *(Applying data skills in an operational retail environment while actively building portfolio projects and certifications for DA roles)* — actively seeking **Data Analyst, BI Analyst, or Business Analyst** roles in Ireland 🇮🇪
 - 🎓 **MSc in Data Analytics** — National College of Ireland, Dublin (2H, NFQ Level 9)
 - 💡 Experienced across the full analytics lifecycle — data extraction, cleaning, modelling, visualisation, and stakeholder reporting
 - 🔗 Portfolio: **[harshvgupta98.github.io](https://harshvgupta98.github.io)** *(coming soon)*
@@ -39,7 +39,8 @@ I'm a **Data Analyst with 3+ years of experience** turning raw data into decisio
 | **Machine Learning** | Regression, Classification, Clustering |
 | **Libraries** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
 | **Databases** | MySQL, PostgreSQL, MongoDB |
-| **Tools** | Excel (Advanced, VBA, Pivot Tables), Linnworks, HyperStock, Jupyter Notebook |
+| **Microsoft Excel** | Advanced Formulas, Pivot Tables, VBA Macros, Charts & Slicers, Data Validation, Conditional Formatting |
+| **Tools** | Linnworks, HyperStock, Jupyter Notebook, MS Office Suite |
 
 ---
 
@@ -69,14 +70,12 @@ I'm a **Data Analyst with 3+ years of experience** turning raw data into decisio
 |---|---|
 | [Online Bookstore](https://github.com/harshvgupta98/SQL_Project_Online_Bookstore) | EDA on sales, customer behaviour, inventory & revenue across 3 relational tables |
 | [World Life Expectancy](https://github.com/harshvgupta98/SQL_Project_World_Life_Expectancy) | Data cleaning & EDA across 193 countries (2007–2022) |
-| [US Household Income](https://github.com/harshvgupta98/SQL_Project_US_Household_Income) | Data cleaning & EDA across all 50 US states and Puerto Rico |
 
 ### 📊 Additional Dashboards
 
 | Project | Description |
 |---|---|
-| [Power BI · Mobile Sales](https://github.com/harshvgupta98/POWERBI_Mobile_Sales_Dashboard) | Mobile brand sales dashboard — revenue, quantity, transactions & ratings |
-| [Excel · Sales Performance](https://github.com/harshvgupta98/EXCEL_Sales_Performance_Dashboard) | Sales dashboard for 141 executives across 8 cities with VBA macros |
+| [Excel · Sales Performance](https://github.com/harshvgupta98/EXCEL_Sales_Performance_Dashboard) | End-to-end Excel dashboard for 141 executives across 8 regions — advanced formulas, pivot tables, dynamic charts, slicers & VBA macros |
 
 ---
 
