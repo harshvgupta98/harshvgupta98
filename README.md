@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshgupta0504">
+  <a href="https://www.linkedin.com/in/1harsh-gupta">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/harshvgupta98">
@@ -23,11 +23,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analyst with 3+ years of experience** turning raw data into decisions. I specialise in **Power BI (DAX, Power Query)**, **SQL**, and **Python** — with a track record of building dashboards that replaced days of manual reporting and surfacing insights that directly influenced business strategy.
+I'm a **Data Analyst with 3+ years of experience** turning raw data into decisions. I specialise in **Power BI (DAX, Power Query)**, **SQL**, and **Python** — with a track record of replacing manual reporting processes, reducing project budgets by 10%, and presenting insights that directly influenced business strategy.
 
-- 📊 Currently working at **Lenehans**, Dublin *(Applying data skills in an operational retail environment while actively building portfolio projects and certifications for DA roles)* — actively seeking **Data Analyst, BI Analyst, or Business Analyst** roles in Ireland 🇮🇪
-- 🎓 **MSc in Data Analytics** — National College of Ireland, Dublin (2H, NFQ Level 9)
+- 📊 Currently based in **Dublin, Ireland** — actively seeking **Data Analyst, BI Analyst, or Reporting Analyst** roles 🇮🇪
+- 🎓 **MSc in Data Analytics** — National College of Ireland, Dublin (NFQ Level 9)
 - 💡 Experienced across the full analytics lifecycle — data extraction, cleaning, modelling, visualisation, and stakeholder reporting
+- ✅ Full work authorisation in Ireland
 - 🔗 Portfolio: **[harshvgupta98.github.io](https://harshvgupta98.github.io)**
 
 ---
@@ -41,7 +42,7 @@ I'm a **Data Analyst with 3+ years of experience** turning raw data into decisio
 | **Analytics** | KPI Reporting, EDA, Customer Segmentation, Predictive Modelling, Time Series Forecasting |
 | **Machine Learning** | Regression, Classification, Clustering |
 | **Libraries** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Databases** | MySQL, PostgreSQL |
 | **Microsoft Excel** | Advanced Formulas, Pivot Tables, VBA Macros, Charts & Slicers, Data Validation, Conditional Formatting |
 | **Tools** | Linnworks, HyperStock, Jupyter Notebook, MS Office Suite |
 
@@ -83,10 +84,10 @@ I'm a **Data Analyst with 3+ years of experience** turning raw data into decisio
 
 ## 🎓 Education
 
-| Degree | Institution | Grade |
+| Degree | Institution | Year |
 |---|---|---|
-| MSc in Data Analytics | National College of Ireland, Dublin | Second Class Honours (H2) · NFQ Level 9 |
-| BEng in Computer Science | Savitribai Phule Pune University, India | First Class |
+| MSc in Data Analytics | National College of Ireland, Dublin | 2024 – 2025 |
+| BEng in Computer Science | Savitribai Phule Pune University, India | 2015 – 2019 |
 
 ---
 
