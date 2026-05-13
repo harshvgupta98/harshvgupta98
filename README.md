@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analyst with 3+ years of experience** turning raw data into decisions. I specialise in **Power BI (DAX, Power Query)**, **SQL**, and **Python** — with a track record of replacing manual reporting processes, reducing project budgets by 10%, and presenting insights that directly influenced business strategy.
+I'm a **Data Analyst with 3+ years of experience** and an **MSc in Data Analytics from National College of Ireland, Dublin** — skilled in **Power BI (DAX, Power Query)**, **SQL**, and **Python**. Proven track record of reducing reporting effort, identifying cost variances, and presenting data-driven insights to senior stakeholders.
 
 - 📊 Currently based in **Dublin, Ireland** — actively seeking **Data Analyst, BI Analyst, or Reporting Analyst** roles 🇮🇪
 - 🎓 **MSc in Data Analytics** — National College of Ireland, Dublin (NFQ Level 9)
