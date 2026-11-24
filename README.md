@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a Data Analyst with 3+ years of experience and an MSc in Data Analytics from National College of Ireland, Dublin, skilled in Power BI (DAX, Power Query), SQL, and Python. Track record of reducing reporting effort, identifying cost variances, and presenting data-driven insights to senior stakeholders.
+I'm a Data Analyst with 4+ years of experience and an MSc in Data Analytics from National College of Ireland, Dublin, skilled in Power BI (DAX, Power Query), SQL, and Python. Track record of reducing reporting effort, identifying cost variances, and presenting data-driven insights to senior stakeholders.
 
 - Based in Dublin, Ireland, actively seeking Data Analyst, BI Analyst, or Reporting Analyst roles
 - MSc in Data Analytics, National College of Ireland (NFQ Level 9)
