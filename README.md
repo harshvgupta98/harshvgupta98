@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a Data Analyst with 5+ years of experience and an MSc in Data Analytics from National College of Ireland, Dublin, skilled in Power BI (DAX, Power Query), SQL and Python. I turn complex data into dashboards and insights that improve reporting reliability, forecasting accuracy and operational efficiency.
+I'm a Data Analyst with 4+ years of experience and an MSc in Data Analytics from National College of Ireland, Dublin, skilled in Power BI (DAX, Power Query), SQL and Python. I turn complex data into dashboards and insights that improve reporting reliability, forecasting accuracy and operational efficiency.
 
 - Currently a Data Reporting Analyst at Lenehans, Dublin, working with Supply Chain, Procurement, Inventory and Finance teams
 - Helped cut dead stock by 22%, reduce manual reporting turnaround by 75% and improve inventory forecast accuracy by 25%
